@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[4],{RXBc:function(e,n,t){"use strict";t.r(n);var a=t("q1tI"),r=t.n(a),c=t("Wbzz"),i=t("vrFN");n.default=function(){return r.a.createElement("div",null,r.a.createElement(i.a,{title:"Home"}),r.a.createElement("h1",null,"Welcome to Martingrove United Church Online Service!"),r.a.createElement(c.Link,{to:"/page-2"},"Lets Begin!"))}}}]);
+//# sourceMappingURL=component---src-pages-index-js-a95fac62e7c30e4f4d81.js.map

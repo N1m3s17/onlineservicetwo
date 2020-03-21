@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[9],{oim4:function(e,n,t){"use strict";t.r(n);var a=t("q1tI"),l=t.n(a),i=t("Wbzz"),o=t("vrFN");n.default=function(){return l.a.createElement("div",null,l.a.createElement(o.a,{title:"Reading Two"}),l.a.createElement("h1",null,"Luke 12:31"),l.a.createElement("p",null,'"But seek his kingdom, and these things will be given to you as well."'),l.a.createElement(i.Link,{to:"/sermon"},'Sermon: "While you are young"'))}}}]);
+//# sourceMappingURL=component---src-pages-readingtwo-js-d71af7ca027ca9414171.js.map

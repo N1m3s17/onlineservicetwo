@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[8],{"81QU":function(e,n,t){"use strict";t.r(n);var a=t("q1tI"),r=t.n(a),i=t("Wbzz"),c=t("vrFN");n.default=function(){return r.a.createElement("div",null,r.a.createElement(c.a,{title:"Reading One"}),r.a.createElement("h1",null,"Ecclesiastes"),r.a.createElement(i.Link,{to:"/readingtwo"},"Readings from Scripture Two: Luke 12:31"))}}}]);
+//# sourceMappingURL=component---src-pages-readingone-js-9857687e75cf4d1dcb1f.js.map
